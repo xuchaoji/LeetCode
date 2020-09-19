@@ -51,7 +51,7 @@ public class TrapWater {
     }
 
     private int compareWater(int[] left, int[] right) {
-        int length = Math.max(left.length, right.length);
+        int length = Math.min(left.length, right.length);
         int ans = 0;
         for (int i = 0; i < length; i++) {
             ans += Math.min(left[i], right[i]);
