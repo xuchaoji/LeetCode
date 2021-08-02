@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa099be4-21a0-4ad0-9780-9331a5e035f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1hMuYTthMws7bo6kXHF63rypRNX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager" selected="JUnit.LeastBricks.test">
+    <configuration name="FindLusLength.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePratise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuchaoji.leetcode.oct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.oct" />
+      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.oct.FindLusLength" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetOriginalDigits.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePratise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuchaoji.leetcode.sep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.sep" />
+      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.sep.GetOriginalDigits" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeastBricks.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePratise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuchaoji.leetcode.oct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.oct" />
+      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.oct.LeastBricks" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxWaterPool.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePratise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuchaoji.leetcode.sep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.sep" />
+      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.sep.MaxWaterPool" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePratise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuchaoji.leetcode.sep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.sep" />
+      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.sep.ReverseString" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LeastBricks.test" />
+        <item itemvalue="JUnit.FindLusLength.test" />
+        <item itemvalue="JUnit.MaxWaterPool.test" />
+        <item itemvalue="JUnit.ReverseString.test" />
+        <item itemvalue="JUnit.GetOriginalDigits.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa099be4-21a0-4ad0-9780-9331a5e035f6" name="Default Changelist" comment="" />
+      <created>1599833329761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599833329761</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[20200929]最大盛水容器&#10;[related] 数组">
+      <created>1601390115754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601390115754</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[20200929]翻转链表&#10;[related]链表">
+      <created>1601481587810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601481587810</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[20201006]最长特殊序列&#10;[related]字符串">
+      <created>1601991416812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601991416812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[20200929]最大盛水容器&#10;[related] 数组" />
+    <MESSAGE value="[20200929]翻转链表&#10;[related]链表" />
+    <MESSAGE value="[20201006]最长特殊序列&#10;[related]字符串" />
+    <option name="LAST_COMMIT_MESSAGE" value="[20201006]最长特殊序列&#10;[related]字符串" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="215" key="FileChooserDialogImpl" timestamp="1627207164559">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1627207164559" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/ThreeNumber.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/TrapWater.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/TrapWater.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/TrapWater.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/TrapWater.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/TrapWater.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/LargestRetangleArea.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/LargestRetangleArea.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/LargestRetangleArea.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/TrapWater.java</url>
+          <line>52</line>
+          <properties class="com.xuchaoji.leetcode.sep.TrapWater" method="compareWater">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/LargestRetangleArea.java</url>
+          <line>39</line>
+          <properties class="com.xuchaoji.leetcode.sep.LargestRetangleArea">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/xuchaoji/leetcode/sep/MaxWaterPool.java</url>
+          <line>20</line>
+          <properties class="com.xuchaoji.leetcode.sep.MaxWaterPool" method="maxArea">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
