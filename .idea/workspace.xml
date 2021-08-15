@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa099be4-21a0-4ad0-9780-9331a5e035f6" name="Default Changelist" comment="" />
+    <list default="true" id="aa099be4-21a0-4ad0-9780-9331a5e035f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="JUnit.LeastBricks.test">
+  <component name="RunManager" selected="JUnit.MaxRamp.test">
     <configuration name="FindLusLength.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePratise" />
       <extension name="coverage">
@@ -48,22 +50,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.oct" />
       <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.oct.FindLusLength" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetOriginalDigits.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePratise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuchaoji.leetcode.sep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.sep" />
-      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.sep.GetOriginalDigits" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -86,6 +72,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxRamp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePratise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuchaoji.leetcode.aug2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.aug2021" />
+      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.aug2021.MaxRamp" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxRamp.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePratise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuchaoji.leetcode.aug2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.aug2021" />
+      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.aug2021.MaxRamp" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxWaterPool.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePratise" />
       <extension name="coverage">
@@ -102,29 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePratise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuchaoji.leetcode.sep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.sep" />
-      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.sep.ReverseString" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MaxRamp.test" />
+        <item itemvalue="JUnit.MaxRamp" />
         <item itemvalue="JUnit.LeastBricks.test" />
         <item itemvalue="JUnit.FindLusLength.test" />
         <item itemvalue="JUnit.MaxWaterPool.test" />
-        <item itemvalue="JUnit.ReverseString.test" />
-        <item itemvalue="JUnit.GetOriginalDigits.test" />
       </list>
     </recent_temporary>
   </component>
@@ -170,10 +171,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="[20201006]最长特殊序列&#10;[related]字符串" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="501" y="215" key="FileChooserDialogImpl" timestamp="1627207164559">
+    <state x="501" y="215" key="FileChooserDialogImpl" timestamp="1628255672937">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1627207164559" />
+    <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1628255672937" />
+    <state width="698" height="229" key="GridCell.Tab.0.bottom" timestamp="1629014030554">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="698" height="229" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1629014030554" />
+    <state width="698" height="229" key="GridCell.Tab.0.center" timestamp="1629014030554">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="698" height="229" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1629014030554" />
+    <state width="698" height="229" key="GridCell.Tab.0.left" timestamp="1629014030554">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="698" height="229" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1629014030554" />
+    <state width="698" height="229" key="GridCell.Tab.0.right" timestamp="1629014030554">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="698" height="229" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1629014030554" />
+    <state x="222" y="102" key="SettingsEditor" timestamp="1629013519195">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="102" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1629013519195" />
+    <state x="108" y="70" key="new project wizard" timestamp="1628255733438">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="108" y="70" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1628255733438" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
