@@ -45,6 +45,23 @@ public class MaxRamp {
         return maxRamp;
     }
 
+    /**
+     * 外层循环从最大坡度开始遍历，直到长度变为1；
+     * 内层循环遍历滑动窗口的前面那一位。
+     * 返回第一个满足条件的坡度值即是最大坡度。
+     */
+
+    public int bestSolution(int[] nums) {
+        for (int j = nums.length - 1; j > 0; j--) {
+            for (int i = 0; i < nums.length - j; i++) {
+                if (nums[i + j] >= nums[i]) {
+                    return j;
+                }
+            }
+        }
+        return 0;
+    }
+
     @Test
     public void test() {
         int[] input = new int[]{6, 0, 8, 2, 1, 5};
