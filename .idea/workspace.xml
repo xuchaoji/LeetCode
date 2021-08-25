@@ -39,22 +39,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="JUnit.SurfaceAreas.test">
-    <configuration name="MaxRamp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePratise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuchaoji.leetcode.aug2021.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.aug2021" />
-      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.aug2021.MaxRamp" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Rand10.test">
     <configuration name="MaxRamp.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePratise" />
       <extension name="coverage">
@@ -65,6 +50,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.aug2021" />
       <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.aug2021.MaxRamp" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rand10.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePratise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuchaoji.leetcode.aug2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.aug2021" />
+      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.aug2021.Rand10" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Rand10.test" />
         <item itemvalue="JUnit.SurfaceAreas.test" />
         <item itemvalue="JUnit.SubarrayProductLessThanK.test" />
         <item itemvalue="JUnit.RobMax.testRob" />
         <item itemvalue="JUnit.MaxRamp.test" />
-        <item itemvalue="JUnit.MaxRamp" />
       </list>
     </recent_temporary>
   </component>
@@ -183,22 +184,22 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1628255672937" />
-    <state width="1397" height="154" key="GridCell.Tab.0.bottom" timestamp="1629548878991">
+    <state width="1397" height="232" key="GridCell.Tab.0.bottom" timestamp="1629898624135">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="154" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1629548878991" />
-    <state width="1397" height="154" key="GridCell.Tab.0.center" timestamp="1629548878991">
+    <state width="1397" height="232" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1629898624135" />
+    <state width="1397" height="232" key="GridCell.Tab.0.center" timestamp="1629898624135">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="154" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1629548878991" />
-    <state width="1397" height="154" key="GridCell.Tab.0.left" timestamp="1629548878991">
+    <state width="1397" height="232" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1629898624135" />
+    <state width="1397" height="232" key="GridCell.Tab.0.left" timestamp="1629898624135">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="154" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1629548878991" />
-    <state width="1397" height="154" key="GridCell.Tab.0.right" timestamp="1629548878991">
+    <state width="1397" height="232" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1629898624135" />
+    <state width="1397" height="232" key="GridCell.Tab.0.right" timestamp="1629898624135">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="154" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1629548878991" />
+    <state width="1397" height="232" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1629898624135" />
     <state x="222" y="102" key="SettingsEditor" timestamp="1629013519195">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
