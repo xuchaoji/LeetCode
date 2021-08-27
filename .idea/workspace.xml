@@ -39,23 +39,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
-  <component name="RunManager" selected="JUnit.Rand10.test">
-    <configuration name="MaxRamp.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePratise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuchaoji.leetcode.aug2021.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.aug2021" />
-      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.aug2021.MaxRamp" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.WordDictionaryTest">
     <configuration name="Rand10.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCodePratise" />
       <extension name="coverage">
@@ -67,22 +51,6 @@
       <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.aug2021" />
       <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.aug2021.Rand10" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RobMax.testRob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCodePratise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuchaoji.leetcode.aug2021.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.aug2021" />
-      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.aug2021.RobMax" />
-      <option name="METHOD_NAME" value="testRob" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,13 +88,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordDictionaryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePratise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuchaoji.leetcode.aug2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.aug2021" />
+      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.aug2021.WordDictionaryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordDictionaryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCodePratise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuchaoji.leetcode.aug2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuchaoji.leetcode.aug2021" />
+      <option name="MAIN_CLASS_NAME" value="com.xuchaoji.leetcode.aug2021.WordDictionaryTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WordDictionaryTest" />
+        <item itemvalue="JUnit.WordDictionaryTest.test" />
         <item itemvalue="JUnit.Rand10.test" />
         <item itemvalue="JUnit.SurfaceAreas.test" />
         <item itemvalue="JUnit.SubarrayProductLessThanK.test" />
-        <item itemvalue="JUnit.RobMax.testRob" />
-        <item itemvalue="JUnit.MaxRamp.test" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +171,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="[20201006]最长特殊序列&#10;[related]字符串" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="526" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1630074671273">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="526" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1630074671273" />
     <state x="363" y="37" key="CommitChangelistDialog2" timestamp="1629553822401">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -184,22 +187,22 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1628255672937" />
-    <state width="1397" height="232" key="GridCell.Tab.0.bottom" timestamp="1629898624135">
+    <state width="1397" height="302" key="GridCell.Tab.0.bottom" timestamp="1630075946107">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="232" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1629898624135" />
-    <state width="1397" height="232" key="GridCell.Tab.0.center" timestamp="1629898624135">
+    <state width="1397" height="302" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1630075946107" />
+    <state width="1397" height="302" key="GridCell.Tab.0.center" timestamp="1630075946106">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="232" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1629898624135" />
-    <state width="1397" height="232" key="GridCell.Tab.0.left" timestamp="1629898624135">
+    <state width="1397" height="302" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1630075946106" />
+    <state width="1397" height="302" key="GridCell.Tab.0.left" timestamp="1630075946106">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="232" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1629898624135" />
-    <state width="1397" height="232" key="GridCell.Tab.0.right" timestamp="1629898624135">
+    <state width="1397" height="302" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1630075946106" />
+    <state width="1397" height="302" key="GridCell.Tab.0.right" timestamp="1630075946107">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="232" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1629898624135" />
+    <state width="1397" height="302" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1630075946107" />
     <state x="222" y="102" key="SettingsEditor" timestamp="1629013519195">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
