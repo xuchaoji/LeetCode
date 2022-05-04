@@ -1,7 +1,6 @@
 package com.xuchaoji.leetcode.oct;
 
 import org.junit.Test;
-import org.omg.PortableInterceptor.INACTIVE;
 
 import java.util.*;
 
